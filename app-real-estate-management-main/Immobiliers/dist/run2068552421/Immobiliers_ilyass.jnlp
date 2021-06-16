@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Immobiliers_ilyass.jnlp">
+  <information>
+    <title>Immobiliers_ilyass</title>
+    <vendor>Youcode</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Immobiliers_ilyass.jar" size="26161" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="immobiliers_ilyass.Immobiliers_ilyass"  name="Immobiliers_ilyass" />
+  <update check="always"/>
+</jnlp>
